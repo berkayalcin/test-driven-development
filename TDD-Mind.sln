@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD-Mind", "TDD-Mind\TDD-Mind.csproj", "{DDF9F68E-DB83-4AF0-BEF9-674610463838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD-Mind.Tests", "TDD-Mind.Tests\TDD-Mind.Tests.csproj", "{C0FBB35A-CDAE-4574-94F6-BB46036AB76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF9F68E-DB83-4AF0-BEF9-674610463838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF9F68E-DB83-4AF0-BEF9-674610463838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF9F68E-DB83-4AF0-BEF9-674610463838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF9F68E-DB83-4AF0-BEF9-674610463838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0FBB35A-CDAE-4574-94F6-BB46036AB76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FBB35A-CDAE-4574-94F6-BB46036AB76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FBB35A-CDAE-4574-94F6-BB46036AB76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FBB35A-CDAE-4574-94F6-BB46036AB76F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
